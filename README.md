@@ -10,8 +10,7 @@
 - Member 2: AATHIRA R.N - College of Engineering Munnar
 
 ### Hosted Project Link
-https://github.com/Maria-Biju/tink-her-hack-3-temp.git
-
+https://tink-her-hack-3-temp-k59901lko-maria-bijus-projects.vercel.app/)
 ### Project Description
 This project is a YouTube video player with additional features like task management and note-taking. It allows users to paste a valid YouTube URL, which dynamically loads the video into an iframe. Users can save their favorite videos to a list and remove them as needed, with the list stored in localStorage for persistence. The task management feature lets users create, view, and delete tasks for better organization. The note-taking functionality provides a space for users to jot down notes related to the video, helping them keep track of key points or thoughts during video playback.
 
