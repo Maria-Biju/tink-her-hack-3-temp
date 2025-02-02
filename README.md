@@ -1,17 +1,16 @@
-# [Project Name] 🎯
+# WANDER LEARN 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name:Terminal Stack
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: MARIA BIJU - College of Engineering Munnar
+- Member 2: AATHIRA R.N - College of Engineering Munnar
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+
 
 ### Project Description
 [2-3 lines about what your project does]
