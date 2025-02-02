@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>baado padikkam</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>WANDER LEARN</h1>
+        <!-- Video Section -->
+         <div style="display: flex;">
+             <div class="video-section" style="width: 700px;">
+                <div style="display: flex; align-items: center;">
+
+                    <input type="text" id="youtube-link" placeholder="Paste YouTube link here">
+                    <button class="player-button" id="load-video" >Load Video</button>
+                </div>
+                 <iframe id="video-iframe"   width="560" height="300" frameborder="0" ></iframe>
+                <p id="error-message" style="color: red; display: none;"></p>
+     
+             </div>
+             <div id="video">      
+                 <h1>Saved Videos:</h1>
+                 <ul id="saved-videos">
+                   
+                 </ul>
+             </div>
+         </div>
+         <!-- Notes Section -->
+        <div class="notes-section">
+            <h2>Notes</h2>
+            <textarea id="note-input" placeholder="Take notes here..."></textarea>
+            <button id="save-note">Save Note</button>
+            <div id="saved-notes">
+                <!-- Saved notes will be displayed here -->
+            </div>
+        </div>
+
+        <!-- Tasks Section -->
+        <div class="tasks-section">
+            <h2>Tasks</h2>
+            <input type="text" id="task-input" placeholder="Add a new task">
+            <input type="datetime-local" id="task-time">
+            <button id="add-task">Add Task</button>
+            <div id="task-list">
+                <!-- Tasks will be displayed here -->
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
