@@ -65,11 +65,7 @@ video thumbnail after loading
 
 ![Screenshot3]![Screenshot (5)](https://github.com/user-attachments/assets/98e256be-8865-4aef-b321-0e6643fa58b1)
 
-reminder pop up
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+reminder pop 
 
 ### Project Demo
 # Video
@@ -80,9 +76,8 @@ https://drive.google.com/drive/folders/1oRz2p7ijQJm6D5K_R3KCfNqotQKOWTNq?usp=sha
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Maria Biju:coding and design
+- Aathira R.N:coding and implimentation
 
 ---
 Made with ❤️ at TinkerHub
